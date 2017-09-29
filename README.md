@@ -1,2 +1,2 @@
 # modul5
-ba ba bababababababa
+jframe digunakan untuk memperindah tampilan dan mempermudah user untuk menginputkan data
